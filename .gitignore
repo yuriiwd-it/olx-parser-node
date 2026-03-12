@@ -1,0 +1,8 @@
+# Node.js dependencies
+node_modules/
+
+# Excel файлы
+output/*.xlsx
+
+# Личные настройки или секреты
+.env
